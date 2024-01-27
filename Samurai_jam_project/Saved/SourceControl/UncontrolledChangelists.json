@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/conun/OneDrive/Documents/Unreal Projects/Samurai_jam/Samurai_jam_project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/conun/OneDrive/Documents/Unreal Projects/Samurai_jam/Samurai_jam_project/Content/UI/MainMenu.uasset",
+				"C:/Users/conun/OneDrive/Documents/Unreal Projects/Samurai_jam/Samurai_jam_project/Content/Mainmenumap.umap",
+				"C:/Users/conun/OneDrive/Documents/Unreal Projects/Samurai_jam/Samurai_jam_project/Content/UI/Menugamemode.uasset",
 				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/SoulCity/Maps/LV_Soul_Slum.umap",
 				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/bb.uasset",
 				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
@@ -166,8 +170,7 @@
 				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/blueprints/basicAttack/BASIC_ATTACK-export.uasset",
 				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/blueprints/idle/IDLE-export.uasset",
 				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/blueprints/run/RUN-export.uasset",
-				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/blueprints/idle/idle_s.uasset",
-				"C:/Users/conun/OneDrive/Documents/Unreal Projects/Samurai_jam/Samurai_jam_project/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/unrealengineprojects/Samurai_jam/Samurai_jam_project/Content/blueprints/idle/idle_s.uasset"
 			]
 		}
 	]
